@@ -1,0 +1,8 @@
+```csv
+Component,Type,Isotope,Power (W),Lifetime (yrs),Cost ($)
+Alpha,RTG,Pu-238,15,87,100000
+Beta,Beta-voltaic,Sr-90,3,29,10000
+Gamma,Scintillation,Cs-137,1,30,15000
+Shielding,,Lead + Graphite,,60,20000
+Disposal,,Dry Storage,,100,15000
+```
