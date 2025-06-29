@@ -31,11 +31,11 @@ An open-source conceptual design for a long-life hybrid radiation module combini
 
 ## 📊 Performance Snapshot
 
-| Source | Isotope | Power (W) | Life (years) | Converter |
-|--------|---------|-----------|--------------|-----------|
-| Alpha | Pu-238 | 10–20 | 87 | RTG (thermoelectric) |
-| Beta | Sr-90 | 1–5 | 29 | Beta-voltaic |
-| Gamma | Cs-137 | 0.5–2 | 30 | Scintillator + photodiode |
+| Source | Isotope | Power (W) | Life (years) | Converter                |
+|--------|---------|-----------|--------------|-----------               |
+| Alpha  | Pu-238  | 10–20     | 87           | RTG (thermoelectric)     |
+| Beta   | Sr-90   | 1–5       | 29           | Beta-voltaic             |
+| Gamma  | Cs-137  | 0.5–2     | 30           | Scintillator + photodiode|
 
 Combined module offers 12–27 W of continuous output for ≥30 years.
 
